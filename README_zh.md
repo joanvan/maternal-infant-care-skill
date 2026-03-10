@@ -32,7 +32,7 @@ cp -r maternal-infant-care <你的workspace>/skills/
 
 ## 示例截图
 
-![仓库预览](assets/repo-preview.jpg)
+![中文示例：孕妇30天计划](assets/repo-preview-zh.jpg)
 
 ## 安全声明
 

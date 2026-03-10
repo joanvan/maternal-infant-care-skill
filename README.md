@@ -32,7 +32,7 @@ cp -r maternal-infant-care <your-workspace>/skills/
 
 ## Preview
 
-![Repository preview](assets/repo-preview.jpg)
+![English example: 30-day pregnancy plan](assets/repo-preview-en.jpg)
 
 ## Safety
 
