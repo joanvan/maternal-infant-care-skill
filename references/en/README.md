@@ -1,10 +1,12 @@
-# English References (Core)
+# English References (Expanded)
 
-This folder contains core operational modules in English:
-- pregnancy.md
-- newborn-fever-pathway.md
-- monthly-plans-template.md
-- menu-generator-rules.md
-- gestational-diabetes-meal-plan.md
+This folder now includes operational modules mirroring the Chinese library, including:
+- triage and common-illness thresholds
+- pregnancy/postpartum operational plans
+- newborn fever SOP
+- feeding/sleep ranges and escalation triggers
+- 30-day templates and stage presets
+- nutrition/menu and recipe frameworks
+- evidence map and follow-up rules
 
-For advanced topics not yet mirrored in English, adapt from `../zh/`.
+If you need locale-specific schedules (vaccines/care pathways), adapt by country.
