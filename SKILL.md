@@ -32,7 +32,11 @@ description: Bilingual maternal-infant lifecycle support skill (Chinese/English)
 
 Core operational modules:
 - Pregnancy: `references/zh/pregnancy.md` | `references/en/pregnancy.md`
+- Pregnancy nutrition by trimester: `references/zh/pregnancy-nutrition-by-trimester.md` | `references/en/pregnancy-nutrition-by-trimester.md`
+- Pregnancy 2-week menu cases: `references/zh/pregnancy-2week-menus.md`
 - Newborn fever pathway: `references/zh/newborn-fever-pathway.md` | `references/en/newborn-fever-pathway.md`
+- Infant nutrition by age: `references/zh/infant-nutrition-by-age.md` | `references/en/infant-nutrition-by-age.md`
+- Infant 2-week menu cases: `references/zh/infant-2week-menus.md`
 - 30-day plans: `references/zh/monthly-plans-template.md` | `references/en/monthly-plans-template.md`
 - Menu generator: `references/zh/menu-generator-rules.md` | `references/en/menu-generator-rules.md`
 - GDM plan: `references/zh/gestational-diabetes-meal-plan.md` | `references/en/gestational-diabetes-meal-plan.md`
