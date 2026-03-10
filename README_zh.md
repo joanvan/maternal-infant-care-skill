@@ -30,6 +30,10 @@ cp -r maternal-infant-care <你的workspace>/skills/
 - “宝宝2个月发热38.1°C，马上应该怎么处理？”
 - “给我一个4周妊娠糖尿病菜谱，要求每天30分钟内能做完。”
 
+## 示例截图
+
+![仓库预览](assets/repo-preview.jpg)
+
 ## 安全声明
 
 本技能用于健康教育与分诊支持，不能替代医生诊断。

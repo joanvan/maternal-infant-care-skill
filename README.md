@@ -30,6 +30,10 @@ cp -r maternal-infant-care <your-workspace>/skills/
 - “My 2-month infant has fever 38.1°C, what should I do now?”
 - “Build a 4-week GDM menu plan I can actually cook in 30 minutes/day.”
 
+## Preview
+
+![Repository preview](assets/repo-preview.jpg)
+
 ## Safety
 
 Educational and triage support only. Not a replacement for medical diagnosis.
