@@ -1,54 +1,35 @@
 # Maternal Infant Care Skill (OpenClaw)
 
-Bilingual skill pack for maternal and infant daily-life support (pregnancy to 0-3 years).
+Practical bilingual skill pack for maternal and infant care (preconception to 0-3 years).
 
 [中文说明](README_zh.md)
 
-## What this skill covers
+## Highlights
 
-- Pregnancy planning and trimester support
-- Maternal nutrition and recipe guidance
-- Gestational diabetes meal-plan framework
-- Hypertension warning watch during pregnancy
-- Postpartum recovery and mental health screening support
-- Breastfeeding deep-dive (latch, pumping, storage, mastitis signals)
-- Newborn care and fever pathways
-- Infant feeding, allergy-introduction, and sleep by age
-- Development milestones (0-36 months)
-- Family routines, supplies checklists, and weekly dashboard
-- 30-day plan templates (mother/infant)
+- Real operational playbooks (not just outlines)
+- Risk triage first: urgent / same-day / home-monitoring
+- 30-day executable plans (weekly + daily logs)
+- Nutrition and meal-generation rules
+- Newborn fever SOP and doctor-summary templates
 
-## Safety note
+## References structure
 
-This skill is for education, structured planning, and triage support.
-It does **not** replace professional diagnosis or emergency care.
-If red-flag symptoms appear, seek urgent care immediately.
+- `references/zh/` — full Chinese library (expanded practical modules)
+- `references/en/` — core English operational modules
 
 ## Install
-
-### Option A: copy into workspace skills (recommended)
 
 ```bash
 cp -r maternal-infant-care <your-workspace>/skills/
 ```
 
-### Option B: global skills directory
+## Use examples
 
-```bash
-cp -r maternal-infant-care ~/.openclaw/skills/
-```
+- “I’m 28 weeks pregnant, make a 30-day plan (diet, routine, monitoring, follow-up).”
+- “My 2-month infant has fever 38.1°C, what should I do now?”
+- “Build a 4-week GDM menu plan I can actually cook in 30 minutes/day.”
 
-## Usage examples
+## Safety
 
-- "I’m 28 weeks pregnant, build a 30-day nutrition + routine + monitoring plan."
-- "My baby is 5 months old and wakes frequently at night. Make a 30-day feeding/sleep plan."
-- "My 8-month baby is allergic to egg. Build a one-month complementary feeding plan with protein alternatives."
-
-## Structure
-
-- `SKILL.md`
-- `references/` (topic modules)
-
-## License
-
-MIT (recommended for open sharing)
+Educational and triage support only. Not a replacement for medical diagnosis.
+Red-flag symptoms require urgent professional care.
