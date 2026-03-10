@@ -36,6 +36,7 @@ Core operational modules:
 - 30-day plans: `references/zh/monthly-plans-template.md` | `references/en/monthly-plans-template.md`
 - Menu generator: `references/zh/menu-generator-rules.md` | `references/en/menu-generator-rules.md`
 - GDM plan: `references/zh/gestational-diabetes-meal-plan.md` | `references/en/gestational-diabetes-meal-plan.md`
+- Evidence map: `references/zh/evidence-map.md` | `references/en/evidence-map.md`
 
 Extended Chinese library (full set):
 - `references/zh/*.md`

@@ -16,6 +16,7 @@ Practical bilingual skill pack for maternal and infant care (preconception to 0-
 
 - `references/zh/` — full Chinese library (expanded practical modules)
 - `references/en/` — core English operational modules
+- `references/*/evidence-map.md` — guideline/evidence anchoring (WHO/ACOG/AAP/NICE/CDC)
 
 ## Install
 

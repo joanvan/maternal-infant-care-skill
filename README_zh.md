@@ -16,6 +16,7 @@
 
 - `references/zh/`：中文完整主题库（已细化）
 - `references/en/`：英文核心实操模块
+- `references/*/evidence-map.md`：证据与指南映射（WHO/ACOG/AAP/NICE/CDC）
 
 ## 安装
 
